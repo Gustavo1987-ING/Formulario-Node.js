@@ -1,0 +1,1 @@
+Este proyecto es de indole educatico, a penas estoy aprendiendo diseño web; todo carga normal pero a la hora de guardar información no sé si lo hace, ya que no me muestra la lista de ingresados, si puedes arreglar el problema, compartelo porfavor.
